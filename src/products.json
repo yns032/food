@@ -1,0 +1,53 @@
+[
+    {
+    "name": "Kıymalı Patates",
+    "price": 17,
+    "image": "https://www.tarifdefteri.org/wp-content/uploads/2022/11/Pratik-ve-Lezzetli-Ana-Yemek-Tarifi.jpg.webp",
+    "id": "1"
+    },
+    {
+    "name": "Kuzu Pirzola",
+    "price": 24,
+    "image": "https://i2.milimaj.com/i/milliyet/75/0x410/5c8db0cc45d2a09e009d2a06.jpg",
+    "id": "2"
+    },
+    {
+    "name": "Kıymalı",
+    "price": 30,
+    "image": "https://www.tarifdefteri.org/wp-content/uploads/2021/07/Az-Kiyma-ile-Enfes-Ana-Yemek-5.png",
+    "id": "3"
+    },
+    {
+    "name": "Patates Köfte",
+    "price": 34,
+    "image": "https://imgrosetta.mynet.com.tr/file/16172140/16172140-728xauto.png",
+    "id": "4"
+    },
+    {
+    "name": "Tepsi Kebabı",
+    "price": 40,
+    "image": "https://www.tarifdefteri.org/wp-content/uploads/2021/07/Az-Kiyma-ile-Enfes-Ana-Yemek-3.png",
+    "id": "5"
+    }
+    ,
+    {
+    "name": "Sebzeli Kebab",
+    "price": 35,
+    "image": "https://www.tarifdefteri.org/wp-content/uploads/2021/07/Az-Kiyma-ile-Enfes-Ana-Yemek-4.png",
+    "id": "6"
+    }
+    ,
+    {
+    "name": "Türlü",
+    "price": 51,
+    "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2020/05/belen-tava-resimli-yemek-tarifi(12).jpg?h=487&w=650",
+    "id": "7"
+    }
+    ,
+    {
+    "name": "Kabak Sinkonta",
+    "price": 49,
+    "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2018/05/kabak-sinkonta-resimli-yemek-tarifi(15).jpg?h=487&w=650",
+    "id": "8"
+    }
+    ]

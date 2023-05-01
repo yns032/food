@@ -11,3 +11,115 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App .head{
+  display: flex;
+}
+.cart{
+  padding-left: 150px;
+  color: #c9db26;
+  font-size: 20px;
+  width: 100%;
+  border: 1px solid #4a6896;
+  border-radius: 10px;
+  background-color: rgb(132, 132, 211);
+}
+.cart .basketList img{
+  margin-left: -130px;
+}
+.basketList p{
+  margin-top: -40px;
+  margin-left: -50px;
+  color: white;
+}
+
+
+.cart h2{
+  color: white;
+  margin-top: 4px;
+}
+
+.header{
+  display: flex;
+  width: 80%;
+  background-color: darkorange;
+}
+.header img{
+  width: 600px;
+  height: 300px;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.header h2{
+  color: white;
+  font: italic 1.2em "Fira Sans", serif;
+  font-size: 25px;
+  margin-left: 80px;
+}
+.header p i{
+  color: black;
+}
+.header .font img{
+   width: 120px;
+   height: 120px;
+   margin-top: 70px;
+   margin-left: 180px;
+}
+.header .font h2{
+  padding-top: 80px;
+  padding-left: 20px;
+}
+.App .product img{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 0px;
+
+}
+.App .product{
+  display: inline-flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 300px;
+  height: 330px;
+  background-color: rgb(8, 22, 92);
+  margin-top: 20px;
+  margin-left: 28px;
+  border: 1px solid #b95050;
+  border-radius: 10px;
+  animation-timing-function: ease-in-out;
+
+}
+.product .title h4{
+  text-align: center;
+  color: white;
+	font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+
+}
+.conta{
+  display: flex;
+}
+.conta .sepet{
+  margin-left: 190px;
+  margin-top: 10px;
+  font-size: 25px;
+}
+.conta .sepet button{
+  font-size: 25px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+  background-color: orangered;
+  color: white;
+}
+.conta .sepet b{
+  color: white;
+}
+.money p{
+  color: white;
+  padding-left: 10px;
+  font-size: 18px;
+  padding: 2px;
+}
